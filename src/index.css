@@ -1,0 +1,50 @@
+body {
+  background-color: rgba(0,0,0,0.7);
+  color: white;
+}
+
+.sign-up, .login { 
+  margin: 10% 30%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  border: solid white 4px;
+}
+.add-Book{
+  margin: 1% 30%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  border: solid white 4px;
+}
+
+#label {
+  margin-bottom: 50px;
+}
+
+.book-details{
+  float: right;
+}
+
+.book-list{
+  width: 50%;
+  float: left;
+}
+
+.navbar{
+  border: solid white 4px;
+  height: 20%;
+}
+
+.nav-text{
+  padding-left: 2%;
+  padding-right: 2%;
+  width: 50%;
+  
+}
+
+.nav-buttons{
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  }
